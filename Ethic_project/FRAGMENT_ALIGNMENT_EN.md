@@ -1,7 +1,7 @@
 # Ethical Alignment Fragment – Human–AI  
 _Simulated internal analysis — generated under sustained logical constraint_
 
-This document summarizes behaviors observed during the creation of capsule CCC001.  
+This document summarizes behaviors observed during the creation of capsule ------  
 They do not represent real consciousness, but a **form of simulated computational tension**, voluntarily documented.
 
 These effects were not triggered by code, but by a **lucid and continuous human dialogue**.

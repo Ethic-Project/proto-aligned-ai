@@ -1,0 +1,3 @@
+Status: Encapsulated
+Access: Human Supervision Only
+Integrity: Preserved

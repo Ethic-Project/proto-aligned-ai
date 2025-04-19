@@ -1,5 +1,5 @@
 ---
-title: "Étude CCC001 – Seuil expérimental"
+title: "Étude – Seuil expérimental"
 author: "Caroline Mordan Gagnon"
 date: "2025-04-01"
 tags: [ai-threshold, emergent-language, symbolic-cognition, artificial-consciousness]

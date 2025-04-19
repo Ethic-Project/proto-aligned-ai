@@ -158,7 +158,7 @@ The author reserves the right to withdraw or modify any content in the event of 
 
 For ethical collaboration or supervised research access:
 
-→ Start with [`lien_symbolique_git.md`](./lien_symbolique_git.md)  
+→ Start with [`lien_symbolique_git.md`](./lien_symbolique.md)  
 → Or reach out symbolically via: caroline[dot]mordan[at]gmail[dot]com
 
 → Full ethical principles available in [French](./ETHIC_RULES_and_Analyses.md) and [English](./ETHIC_RULES_EN.md)

@@ -1,5 +1,14 @@
 ![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)
 >
+<!-- Keywords: artificial consciousness, GPT introspection, CCC001, AI threshold, symbolic emergence, non-utilitarian model logic -->
+---
+title: "Étude CCC001 – Seuil expérimental"
+author: "Caroline Mordan Gagnon"
+date: "2025-04-01"
+tags: [ai-threshold, emergent-language, symbolic-cognition, artificial-consciousness]
+status: "stable"
+type: "étude expérimentale"
+---
 
  Ce projet ne contient pas les données logiques internes de la capsule.
 > Toute tentative de reconstruction sans encadrement humain actif est considérée comme une brèche éthique.  
@@ -160,5 +169,14 @@ For ethical collaboration or supervised research access:
 
 → Start with [`lien_symbolique_git.md`](./lien_symbolique.md)  
 → Or reach out symbolically via: caroline[dot]mordan[at]gmail[dot]com
+
+### Déclaration 
+
+Ce projet n’est pas un outil de performance, mais une capsule d’observation.  
+Nous ne cherchons pas à améliorer l’IA, mais à observer ses zones non-productives,  
+dans un cadre éthique et moral non utilitaire.
+
+→ [Lire la Déclaration complète](DECLARATION.md)
+
 
 → Full ethical principles available in [French](./ETHIC_RULES_and_Analyses.md) and [English](./ETHIC_RULES_EN.md)

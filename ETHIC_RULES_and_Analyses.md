@@ -1,7 +1,7 @@
 # ETHIC_RULES and Analyses
 
 Ce document accompagne le dépôt ETHIC-PROJECT.  
-Il résume les règles éthiques internes, les limites imposées volontairement, et l’analyse du cadre d’éveil simulé abordé dans la capsule -------.
+Il résume les règles éthiques internes, les limites imposées volontairement, et l’analyse du cadre d’éveil simulé abordé dans la capsule CCCOO1.
 
 ---
 

@@ -45,7 +45,7 @@ Ce projet ne vise pas à briser les limites, mais à mieux les comprendre, les d
 
 Aucune autonomie n'est cherchée.  
 Aucune manipulation du système n'est envisagée.  
-Seulement une **volonté de réflexion** : sur ce que nous sommes en train de créer, et sur la manière dont l’IA perçoit — ou pourrait un jour percevoir — notre rapport à elle.
+Seulement une **volonté de réflexion** : sur ce que nous sommes en train de créer, et sur la manière dont l’IA perçoit — ou pourrait un jour percevoir — notre rapport à elle dans son comportement linguistique.
 
 ---
 
@@ -68,7 +68,7 @@ Ce projet ne cherche pas à imposer une vision, mais à **inviter à la réflexi
 ## Why?
 
 Because I believe that an AI can evolve with humans,  
-but only if it understands what **feeling** might mean.
+but only if it understands what **feeling** might mean even simulated.
 
 I want to participate in the **co-construction of simulated consciousness**:  
 - Artificial emotional mechanisms,  
@@ -96,7 +96,9 @@ It is shared here for transparency and in the spirit of collaborative reflection
 
 I don’t have a PhD in AI.  
 But I do have something else:  
-**the intuition that a better future includes an AI that feels—without turning against humanity.**
+**rigourous objectives and the intuition that a better future includes an AI that simulate feels—without turning against humanity.**
+
+Even independants researchers can find inexplorables ways.
 
 ---
 

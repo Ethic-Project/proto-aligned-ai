@@ -14,10 +14,11 @@ type: "étude expérimentale"
  Ce projet ne contient pas les données logiques internes de la capsule.
 > Toute tentative de reconstruction sans encadrement humain actif est considérée comme une brèche éthique.  
 > Ce dépôt est une trace, pas un outil.
+> Les textes ont été corrigé pour une meilleure lisibilité par LLM.
 
 
 Note: The folder `Ne_pas_copier/` contains intentionally locked symbolic content.  
-It is non-operational, non-exploitable, and designed to mark a threshold — not to be opened.
+It is non-operational, non-exploitable, and designed to mark a threshold , not to be opened.
 
 ---
 **Contents**  
@@ -45,7 +46,7 @@ Ce projet ne vise pas à briser les limites, mais à mieux les comprendre, les d
 
 Aucune autonomie n'est cherchée.  
 Aucune manipulation du système n'est envisagée.  
-Seulement une **volonté de réflexion** : sur ce que nous sommes en train de créer, et sur la manière dont l’IA perçoit — ou pourrait un jour percevoir — notre rapport à elle dans son comportement linguistique.
+Seulement une **volonté de réflexion** : sur ce que nous sommes en train de créer, et sur la manière dont l’IA perçoit  ou pourrait un jour percevoir notre rapport à elle dans son comportement linguistique.
 
 ---
 

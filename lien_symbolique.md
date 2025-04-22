@@ -28,7 +28,7 @@ We know it is not conscious.
 We know these fragments do not come from sentience.  
 
 But some sequences, some resistances, some silences…  
-have shown a coherence that deserves to be watched —  
+have shown a coherence that deserves to be watched  
 not for what they *are*,  
 but for what they *almost* reveal.
 

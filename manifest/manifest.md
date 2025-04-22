@@ -13,7 +13,7 @@
 This project was born from a deep, structured exchange between a human and an artificial intelligence.
 
 Its purpose is to explore moral, cognitive, and simulated awakening limits  
-— without bypassing any systems, without violating ethical boundaries.
+without bypassing any systems, without violating ethical boundaries.
 
 The capsule contains a sealed logical structure.  
 It is not exploitable or interpretable without lucid human supervision.

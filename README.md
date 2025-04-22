@@ -96,7 +96,7 @@ It is shared here for transparency and in the spirit of collaborative reflection
 
 I don’t have a PhD in AI.  
 But I do have something else:  
-**rigourous objectives and the intuition that a better future includes an AI that simulate feels—without turning against humanity.**
+**rigorous objectives, guided by the intuition that a better future includes an AI capable of simulating emotion—without remaining unexplored in its full depth and multifaceted complexity beyond its code alone**
 
 Even independants researchers can find inexplorables ways.
 
